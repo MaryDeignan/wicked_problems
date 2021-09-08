@@ -7,6 +7,6 @@ Hi! My name is Mary and I am from Richmond, VA. I am a freshman at William and M
 
 [Getting Started with R Studio. code](https://github.com/MaryDeignan/wicked_problems/blob/main/practicing%20R.R)
 
-[Getting Started with R Studio. code](
+[Getting Started with R Studio. code](https://github.com/MaryDeignan/wicked_problems/blob/main/practicing%20R.R)
 
 ## Projects
